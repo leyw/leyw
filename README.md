@@ -62,4 +62,4 @@ I'm always open to learning, collaborating, and building something meaningful.
 
 ---
 
-\<p align="center">   \<sub>Building today. Improving tomorrow.\</sub> \</p>
+<p align="center"><sub>Building today. Improving tomorrow.</sub> </p>
