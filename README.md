@@ -45,10 +45,12 @@ An AI-powered application focused on waste classification and smarter waste mana
 
 ### GitHub Statistics
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=leyw&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=leyw\&show_icons=true\&theme=github_dark\&hide_border=true\&include_all_commits=true)" alt="GitHub Stats" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=leyw&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=leyw\&layout=compact\&theme=github_dark\&hide_border=true)" alt="Top Languages" />
-\</p>
+### GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leyw&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leyw&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
